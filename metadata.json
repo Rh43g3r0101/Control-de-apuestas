@@ -1,0 +1,8 @@
+{
+  "name": "Remix Control de Apuestas Deportivas",
+  "description": "Plantilla profesional y gestor de apuestas deportivas con resúmenes diarios, semanales, mensuales, dashboard de rendimiento e integración con Google Chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
